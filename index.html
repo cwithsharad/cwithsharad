@@ -16,7 +16,7 @@ slogan2: "Get started !!!!"
 		{% if post.image %}
 			<a href="{{ post.url }}" title="" style="background-image: url({{ post.image }})"></a>
 		{% else %}
-		<a href="{{ post.url }}" title="" style="background-image: url("{{ site.url }}/assets/post_images/{{post.categories[0]}}.png")"></a>
+		<a href="{{ post.url }}" title="" style="background-image: url('{{ site.url }}/assets/post_images/{{post.categories[0]}}.png')"></a>
 		{% endif %}
 		</figure>
 			<div class="blog-content">            
