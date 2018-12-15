@@ -41,4 +41,5 @@ slogan2: Get started !!!!
 			</li>
 		{% endfor %}	
 		</ul>
+		{% include pagination.html %}
 </div>
