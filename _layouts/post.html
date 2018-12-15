@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en-US">
+{% include head.html %}
+<!-- HEAD --->
+
+<body class="home blog wp-custom-logo hfeed">
+
+<div class="wrapper">
+	<!-- Header Starts Here -->
+		{% include header.html %}	
+	<!-- Header Ends Here -->
+	
+
+	
+<section class="container">
+
+<div class="main">		
+           <div class="small-main">
+                <ul class="blog-dtl-list">
+                        <li><span class="posted-on">Published on {{ page.date | date_to_string }}</span></li>
+                        <li><span class="byline"> Published by <span class="author vcard">{{ page.author }}</a></span></span></li>
+                </ul>
+                <div class="blog-dtl-content">
+                   <h1>{{ page.title }}</h1>
+                    <p>{{ page.description }}</p>
+				<hr>
+<p>
+	<span style="font-weight: 400;">
+		<img class="alignleft wp-image-13353" src="{{ page.image }}" alt="" width="225" height="225">
+	</span>
+</p>
+
+<p>
+		<span style="font-weight: 400;">{{ content }}</span>
+</p>
+
+</div>
+
+</div>
+</div>
+
+</section>
+
+<!-- FOOTER HERE -->
+{% include footer.html %}
+</div>
+
+<script type='text/javascript' src='{{ site.baseurl }}/assets/js/navigation.js'></script>
+<script type='text/javascript' src='{{ site.baseurl }}/assets/js/menu.js'></script>
+<script type='text/javascript' src='{{ site.baseurl }}/assets/js/general.js'></script>
+
+</body>
+</html>

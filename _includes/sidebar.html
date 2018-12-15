@@ -1,0 +1,34 @@
+<section class="secondary-navbar-sec">
+	<div class="main cf">           
+		<div class="menu-sub-nav-categories-container">
+		
+			<ul id="primary-menu" class="secondary-menu">
+			{% for item in site.blogs %}
+				<li id="menu-item-12677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12677"><a href="{{ item.url }}">{{ item.page }}</a></li>
+			{% endfor %}
+			</ul>
+		</div>                            
+
+				<div class="mobile_menu">
+					<div class="menu-sub-nav-categories-container">
+						<select id="drop-nav" class="mob-drop"><option value="">Select a category...</option>
+							{% for item in site.blogs %}		
+							<option value="{{ item.url }}">{{ item.page }}</option>
+							{% endfor %}
+						</select>
+					</div>
+				</div>
+
+			<div class="search-box">
+				
+				<!-- <form action="https://blog.hackerrank.com/" role="search" method="get"> -->
+					<!-- <fieldset> -->
+						<!-- <input type="text" placeholder="Search blog" name="s" value=""/> -->
+					<!-- </fieldset>	 -->
+					<!-- <input type="submit" /> -->
+				<!-- </form>				 -->
+				
+			</div>
+			
+	</div>
+</section>

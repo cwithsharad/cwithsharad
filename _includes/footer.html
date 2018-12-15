@@ -1,0 +1,42 @@
+<footer id="footer">
+	<div class="main cf">
+		<div class="foo-content-col">
+        <a href="{{ site.baseurl }}" title="" class="foo-logo"><img src="{{ site.baseurl }}assets/images/logo-top.png" alt="" /></a>
+			<ul class="foo-social">
+				<li><a href="{{ site.contact.linkedin }}"   class="fab fa-linkedin" target=" _blank"></a></li>
+				<li><a href="{{ site.contact.twitter }}"   class="fab fa-twitter" target=" _blank"></a></li>
+				<li><a href="{{ site.contact.facebook }}"   class="fas fa-thumbs-up" target=" _blank"></a></li>
+			</ul>
+                				
+                <ul class="contact-dtl">
+					<li><a href="mailto:{{ site.email }}" title="{{ site.email }}">{{ site.email }}</a></li>
+					<li>&copy; {{ site.title }}</li>
+				</ul>
+        </div>
+				
+			<div class="menu-footer-nav-container">
+				<ul id="menu-footer-nav" class="foo-links">
+					<!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11336"><a href="#">Authors</a> -->
+					<!-- <ul class="sub-menu"> -->
+						<!-- <li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11337"><a href="https://www..com/work/apidocs??utm_medium=social&#038;utm_source=blog">API</a></li> -->
+					<!-- </ul> -->
+					<!-- </li> -->
+
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11341"><a href="#">Blogs</a>
+					<ul class="sub-menu">
+					{% for item in site.blogs %}
+						<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11342"><a href="{{ item.url }}">{{ item.page }}</a></li>
+					{% endfor %}
+					</ul>
+					</li>
+					
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11341"><a href="#">Copyrights</a>
+					<ul class="sub-menu">
+						<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11342"><a href="#">License</a></li>
+					</ul>
+					</li>
+					
+				</ul>
+			</div>        
+		</div>
+    </footer>

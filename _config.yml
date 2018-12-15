@@ -1,0 +1,44 @@
+# Site Info
+title: TnG
+tagline: 'You will find the steps here !'
+description: 'A website dedicted to the gamers and technology enthusiasts ! </a>maintained by <a href="https://www.sharad.cf" target="_blank">@sharadcodes</a>.'
+baseurl: '/'
+url: https://sharadcodes.github.io
+email: mauryablog@gmail.com
+
+# Site configurations
+plugins:
+  - jekyll-paginate
+markdown: kramdown
+
+# About/contact
+author: Sharad Raj
+
+bio: I'm a programmer, a blogger and a student :), Doing coding since I was 14 and Now a fan of PUBG :) 
+  
+contact:
+    linkedin: https://www.linkedin.com/in/srsmaurya
+    facebook: https://www.facebook.com/therealsharad
+    twitter:  https://www.twitter.com/iamsharadraj
+    gmail:  mailto:mauryablog@gmail.com
+  
+
+# Navigation (2nd level links supported)
+
+toc:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Author
+    url: /author/    
+    
+blogs:
+  - page: Main Blog
+    url: /
+  - page: Web Development
+    url: /web_dev_blog/
+  - page: Science and Technology
+    url: /sci_tech_blog/
+  - page: Gaming
+    url: /gaming_blog/
