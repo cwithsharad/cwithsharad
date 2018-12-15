@@ -19,6 +19,19 @@
                 <ul class="blog-dtl-list">
                         <li><span class="posted-on">Published on {{ page.date | date_to_string }}</span></li>
                         <li><span class="byline"> Published by <span class="author vcard">{{ page.author }}</a></span></span></li>
+	
+<div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>	
+		
                 </ul>
                 <div class="blog-dtl-content">
                    <h1>{{ page.title }}</h1>
