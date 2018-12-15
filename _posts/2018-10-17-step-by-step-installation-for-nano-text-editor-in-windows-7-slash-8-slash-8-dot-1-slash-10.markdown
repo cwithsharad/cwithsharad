@@ -18,13 +18,13 @@ Now add it to the environment variables for your account or for your complete PC
 FOR DOING THIS YOU WILL HAVE TO COPY THE PATH OF THE FILE OR FOLDER.
 
 # STEP 1
-![Image of copying path step-1](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-1.png)
+![Image of copying path step-1](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-1.png)
 
 # STEP 2
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-2.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-2.png)
 
 # STEP 3
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-3.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-3.png)
 
 
 ## Next you have to search for:
@@ -33,37 +33,37 @@ in the Windows search of Cortana.
 
 
 # STEP 4
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-4.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-4.png)
 
 # STEP 5
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-5.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-5.png)
 
 # STEP 6
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-6.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-6.png)
 
 # STEP 7
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-7.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-7.png)
 
 # STEP 8
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-8.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-8.png)
 
 # STEP 9
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-9.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-9.png)
 
 # STEP 10
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-10.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-10.png)
 
 # STEP 11
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-11.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-11.png)
 
 # STEP 12
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-12.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-12.png)
 
 # STEP 13
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-13.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-13.png)
 
 # STEP 14
-![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/images/post_images/nano-14.png)
+![Image of step](https://raw.githubusercontent.com/cwithsharad/cwithsharad.github.io/master/assets/post_images/nano-14.png)
 
 
 ## Hope this will help you and if it helped please LIKE, SHARE AND SUBSCRIBE MY YouTube Channel and blog as it helps me and boosts me for making more content like this.
