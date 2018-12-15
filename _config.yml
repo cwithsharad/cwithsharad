@@ -10,8 +10,12 @@ email: mauryablog@gmail.com
 plugins:
   - jekyll-paginate
 markdown: kramdown
+
+############################################################
 paginate: 8
-paginate_path: "/page:num/"
+pagination:
+  # Site-wide kill switch, disabled here it doesn't run at all 
+  enabled: true
 
 # About/contact
 author: Sharad Raj
