@@ -11,6 +11,9 @@ plugins:
   - jekyll-paginate
 markdown: kramdown
 
+pagination:
+  enabled: true
+  per_page: 8
 # About/contact
 author: Sharad Raj
 
