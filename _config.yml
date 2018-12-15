@@ -10,10 +10,8 @@ email: mauryablog@gmail.com
 plugins:
   - jekyll-paginate
 markdown: kramdown
+paginate: 8
 
-pagination:
-  enabled: true
-  per_page: 8
 # About/contact
 author: Sharad Raj
 
