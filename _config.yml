@@ -29,9 +29,9 @@ toc:
   - title: Home
     url: /
   - title: About
-    url: /about/
+    url: /about
   - title: Author
-    url: /author/    
+    url: /author
     
 blogs:
   - page: Main Blog
