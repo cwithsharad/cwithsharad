@@ -1,8 +1,9 @@
 # Site Info
-title: TnG
-tagline: 'You will find the steps here !'
+title: CODE WITH SHARAD
+tagline: 'A site dedicated to C.S.'
+description: 'A site dedicated to C.S. and Technnology. </a>. Made by <a href="https://www.sharad.cf" target="_blank">@sharadcodes</a>.''
 description: 'A website dedicted to the gamers and technology enthusiasts ! </a>maintained by <a href="https://www.sharad.cf" target="_blank">@sharadcodes</a>.'
-baseurl: '/'
+baseurl: "/"
 url: https://cwithsharad.github.io
 email: mauryablog@gmail.com
 
