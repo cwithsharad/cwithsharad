@@ -12,11 +12,12 @@ slogan2: "Get started !!!!"
 {% for post in paginator.posts %}
 <li>
 	<figure class="" >
+	
 	{% if post.image %}
 	<a href="{{ post.url }}" title="" style="background-image: url({{ post.image }})"></a>
 	{% else %}
 	<a href="{{ post.url }}" title="" style="background-image: url({{ site.baseurl }}assets/post_images/{{post.post_for}}.png)"></a>
-	{% endif %}
+		
 	</figure>
 <div class="blog-content">            
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>            
