@@ -32,7 +32,8 @@ toc:
     url: /about
   - title: Author
     url: /author
-    
+  - title: Categories
+    url: /categories/
 blogs:
   - page: Main Blog
     url: /
