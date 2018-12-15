@@ -16,23 +16,19 @@
 				
 			<div class="menu-footer-nav-container">
 				<ul id="menu-footer-nav" class="foo-links">
-					<!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11336"><a href="#">Authors</a> -->
-					<!-- <ul class="sub-menu"> -->
-						<!-- <li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11337"><a href="https://www..com/work/apidocs??utm_medium=social&#038;utm_source=blog">API</a></li> -->
-					<!-- </ul> -->
-					<!-- </li> -->
-
+					
 					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11341"><a href="#">Blogs</a>
 					<ul class="sub-menu">
 					{% for item in site.blogs %}
-						<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11342"><a href="{{ item.url }}">{{ item.page }}</a></li>
+						<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="{{ item.url }}">{{ item.page }}</a></li>
 					{% endfor %}
 					</ul>
 					</li>
 					
-					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11341"><a href="#">Copyrights</a>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children "><a href="#">Copyrights</a>
 					<ul class="sub-menu">
-						<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11342"><a href="#">License</a></li>
+						<li  class="menu-item menu-item-type-custom menu-item-object-custom "><a href="#">License</a></li>
+						<li  class="menu-item menu-item-type-custom menu-item-object-custom "><a href="{{ site.author.portfolio_page }}" >{{ site.author.name }}.</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CODE WITH SHARAD</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.cwithsharad.cf" property="cc:attributionName" rel="cc:attributionURL">SHARAD RAJ SINGH MAURYA</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</li>
 					</ul>
 					</li>
 					
