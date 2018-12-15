@@ -9,7 +9,7 @@ slogan2: Get started !!!!
 
 <div class="main">
 		<ul class="blog-list">
-		{% for post in site.posts %}
+		{% for post in paginator.posts %}
 			<li>
 				<figure class="" >
 						{% if post.image %}
