@@ -42,3 +42,12 @@ blogs:
     url: /sci_tech_blog/
   - page: Gaming
     url: /gaming_blog/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: ""
+    values:
+      layout: "default"
+      author: "Sharad Raj"
