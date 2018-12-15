@@ -36,7 +36,7 @@ slogan2: Get started !!!!
 							</time>
 							</li>
 						</ul>
-					<p>{{ post.excerpt }}</p>
+					<p>{{ post.content | strip_html | truncatewords:30 }}</p>
 				</div>
 			</li>
 		{% endfor %}	
