@@ -47,7 +47,6 @@ defaults:
   -
     scope:
       path: ""
-      type: ""
     values:
       layout: "default"
       author: "Sharad Raj"
