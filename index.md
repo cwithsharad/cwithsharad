@@ -37,6 +37,6 @@ slogan2: "Get started !!!!"
 {% endfor %}	
 </ul>
 
-	{% include pagination.html %}
+<!-- PAGINATION -->
 
 </div>
