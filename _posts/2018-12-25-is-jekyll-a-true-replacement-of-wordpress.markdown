@@ -14,4 +14,4 @@ Well according to the official website
 
 In simple words you can say that you write your content in **[Markdown](https://en.m.wikipedia.org/wiki/Markdown)** and it is transformed into your HTML site, as per the template made by you.
 
-Well this post which you are reading is also written in **Markdown**, a Markdown file is nothing but a file with a **.md** or **.markdown** extension and some of the **YAML** front matter. And now what the hell is this **YAML** :laughing: .
+Well this post which you are reading is also written in **Markdown**, a Markdown file is nothing but a file with a **.md** or **.markdown** extension and some of the **YAML** front matter. And now what the hell is this **YAML** :worried: .
