@@ -1,10 +1,10 @@
 ---
 title: Disarium number in C++ and Python
 date: 2018-09-29 19:19:00 Z
-layout: post
 categories:
 - PYTHON
 - C++ LANGUAGE PROGRAMS
+layout: post
 ---
 
 * PROGRAM FOR DISARIUM NUMBER IN PYTHON

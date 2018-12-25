@@ -1,10 +1,10 @@
 ---
 title: How to install Ubuntu on USB/SD/MMC
 date: 2018-09-14 00:00:00 Z
-layout: post
 categories:
 - LINUX
 - SCI-TECH
+layout: post
 ---
 
 ![](https://cwithsharad.github.io/assets/img/ubuntu.jpg)

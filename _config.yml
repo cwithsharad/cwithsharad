@@ -1,58 +1,53 @@
-# Site Info
+---
 title: CODE WITH SHARAD
-tagline: 'A site dedicated to C.S.'
-description: 'A site dedicated to C.S. and Technnology. </a>. Made by <a href="https://www.sharad.cf" target="_blank">@sharadcodes</a>.'
-baseurl: ""
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    author: Sharad Raj
+tagline: A site dedicated to C.S.
+description: A site dedicated to C.S. and Technnology. </a>. Made by <a href="https://www.sharad.cf"
+  target="_blank">@sharadcodes</a>.
+baseurl: ''
 url: https://cwithsharad.github.io
 email: mauryablog@gmail.com
-
-# Site configurations
 plugins:
-  - jekyll-paginate
+- jekyll-paginate
 markdown: kramdown
-
-############################################################
 paginate: 8
 pagination:
-  # Site-wide kill switch, disabled here it doesn't run at all 
   enabled: true
-
-# About/contact
 author: Sharad Raj
-
-bio: I'm a programmer, a blogger and a student :), Doing coding since I was 14 and Now a fan of PUBG :) 
-  
+bio: I'm a programmer, a blogger and a student :), Doing coding since I was 14 and
+  Now a fan of PUBG :)
 contact:
-    linkedin: https://www.linkedin.com/in/srsmaurya
-    facebook: https://www.facebook.com/therealsharad
-    twitter:  https://www.twitter.com/iamsharadraj
-    gmail:  mailto:mauryablog@gmail.com
-  
-
-# Navigation (2nd level links supported)
-
+  linkedin: https://www.linkedin.com/in/srsmaurya
+  facebook: https://www.facebook.com/therealsharad
+  twitter: https://www.twitter.com/iamsharadraj
+  gmail: mailto:mauryablog@gmail.com
 toc:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Author
-    url: /author
-  - title: Categories
-    url: /categories/
+- title: Home
+  url: "/"
+- title: About
+  url: "/about"
+- title: Author
+  url: "/author"
+- title: Categories
+  url: "/categories/"
 blogs:
-  - page: Main Blog
-    url: /
-  - page: Web Development
-    url: /web_dev_blog/
-  - page: Science and Technology
-    url: /sci_tech_blog/
-  - page: Gaming
-    url: /gaming_blog/
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      author: "Sharad Raj"
+- page: Main Blog
+  url: "/"
+- page: Web Development
+  url: "/web_dev_blog/"
+- page: Science and Technology
+  url: "/sci_tech_blog/"
+- page: Gaming
+  url: "/gaming_blog/"

@@ -1,6 +1,6 @@
 ---
-layout: default
 title: About
+layout: default
 image: "../assets/page_images/about.jpg"
 description: Who we are ? | What we do ?
 slogan1: This site was made for you!

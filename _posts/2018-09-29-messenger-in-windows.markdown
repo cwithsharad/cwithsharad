@@ -1,10 +1,10 @@
 ---
 title: Messenger in Windows
 date: 2018-09-29 10:25:00 Z
-layout: post
 categories:
 - WINDOWS
 - SCI-TECH
+layout: post
 ---
 
 <p class="intro">

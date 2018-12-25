@@ -1,9 +1,9 @@
 ---
 title: A tiny Python program to check that Python is working
 date: 2018-09-29 16:27:00 Z
-layout: post
 categories:
 - PYTHON
+layout: post
 ---
 
 A tiny Python program to check that Python is working.

@@ -1,10 +1,10 @@
 ---
 title: Step by step installation for NANO text editor in Windows 7/8/8.1/10
 date: 2018-10-17 03:40:00 Z
-layout: post
 categories:
 - WINDOWS
 - SCI-TECH
+layout: post
 ---
 
 First of all you need to download the zip file from the link below.

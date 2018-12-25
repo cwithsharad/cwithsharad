@@ -1,10 +1,10 @@
 ---
 title: PROGRAM FOR SELECTION SORTING
 date: 2018-05-24 17:06:02 Z
-layout: post
-categories: 
+categories:
 - ARRAY PROGRAMS
 - C LANGUAGE PROGRAMS
+layout: post
 ---
 
 #### PROGRAM CODE

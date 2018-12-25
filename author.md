@@ -1,9 +1,9 @@
 ---
-layout: default
 title: Sharad Raj
+layout: default
 image: "../assets/page_images/author.jpg"
 description: C.S. Student | Programmer | Google India Scholar | Hobby writer
-slogan1: Hi! there this is me 
+slogan1: Hi! there this is me
 slogan2: Your mentor
 ---
 

@@ -1,11 +1,10 @@
 ---
-layout: blog
 title: Blog
+layout: blog
 image: "../assets/page_images/blog.jpg"
-slogan1: "So you are here..."
-slogan2: "Get started !!!!"
+slogan1: So you are here...
+slogan2: Get started !!!!
 ---
-
 
 <div class="main">
 	<ul class="blog-list">

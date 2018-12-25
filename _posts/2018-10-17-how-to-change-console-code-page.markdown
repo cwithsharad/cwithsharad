@@ -1,10 +1,10 @@
 ---
 title: How to change console code page
 date: 2018-10-17 11:37:00 Z
-layout: post
 categories:
 - SCI-TECH
 - WINDOWS
+layout: post
 ---
 
 The console character encoding can be changed to UTF-8, which is identified by code page 65001 (Windows Only). UTF-8 allows encoding all Unicode characters, i.e. special characters of all languages are supported.
