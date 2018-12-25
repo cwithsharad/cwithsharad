@@ -21,6 +21,7 @@ url: https://cwithsharad.github.io
 email: mauryablog@gmail.com
 plugins:
 - jekyll-paginate
+- jemoji
 markdown: kramdown
 paginate: 8
 pagination:
