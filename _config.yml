@@ -16,7 +16,7 @@ defaults:
 tagline: A site dedicated to C.S.
 description: A site dedicated to C.S. and Technnology. </a>. Made by <a href="https://www.sharad.cf"
   target="_blank">@sharadcodes</a>.
-baseurl: ''
+baseurl: 
 url: https://cwithsharad.github.io
 email: mauryablog@gmail.com
 plugins:
@@ -42,12 +42,3 @@ toc:
   url: "/author"
 - title: Categories
   url: "/categories/"
-blogs:
-- page: Main Blog
-  url: "/"
-- page: Web Development
-  url: "/web_dev_blog/"
-- page: Science and Technology
-  url: "/sci_tech_blog/"
-- page: Gaming
-  url: "/gaming_blog/"
