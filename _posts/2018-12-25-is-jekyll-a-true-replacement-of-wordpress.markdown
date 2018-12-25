@@ -12,3 +12,4 @@ Well according to the official website
 
 > **Jekyll is a simple, extendable, static site generator. You give it text written in your favorite markup language and it churns through layouts to create a static website. Throughout that process you can tweak how you want the site URLs to look, what data gets displayed in the layout, and more.**
 
+In simple words you can say that you write your content in **[Markdown](https://en.m.wikipedia.org/wiki/Markdown)** 
